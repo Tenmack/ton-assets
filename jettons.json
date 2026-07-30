@@ -17066,6 +17066,11 @@
   "symbol": "Points"
  },
  {
+  "address": "0:2643684bd87e00f7942ad2962f1fd8abe85e7a3e896264d25ba79d0a50bc62c2",
+  "name": "Quackers",
+  "symbol": "QUACKERS"
+ },
+ {
   "address": "0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a",
   "name": "Ton Raffles Token",
   "symbol": "RAFF"
